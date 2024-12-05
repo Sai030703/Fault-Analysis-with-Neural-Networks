@@ -1,17 +1,17 @@
 # Fault-Analysis-with-Neural-Networks
 
-#OVERVIEW 
+# OVERVIEW 
 
 This repository contains a Google Colab notebook that demonstrates the use of neural networks for fault classification in Tennessee Eastman Process Simulation Dataset. The notebook includes steps for exploratory data analysis, data preprocessing, and model training, along with evaluation metrics to assess the model's performance.
 
 
-#Key Features
+# Key Features
 Exploratory Data Analysis (EDA) of process data.
 Preprocessing steps including feature selection and scaling.
 Training a neural network for fault detection and classification.
 Detailed evaluation of model performance with metrics and visualizations.
 
-#Dataset
+# Dataset
 The dataset used in this project is from Rieth et al. (2017), as referenced in the paper "Issues and Advances in Anomaly Detection Evaluation for Joint Human-Automated Systems."
 
 Dataset Description
